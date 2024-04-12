@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/e8e538a8d247471d8547e74928804d6d/artifacts
+deleted_time: 1712144258044
+end_time: 1712143046779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8e538a8d247471d8547e74928804d6d
+run_name: LogisticRegression
+run_uuid: e8e538a8d247471d8547e74928804d6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712143035447
+status: 3
+tags: []
+user_id: dell

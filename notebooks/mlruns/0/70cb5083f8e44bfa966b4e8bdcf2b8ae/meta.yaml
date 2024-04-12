@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/70cb5083f8e44bfa966b4e8bdcf2b8ae/artifacts
+deleted_time: 1712144257950
+end_time: 1712143726700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 70cb5083f8e44bfa966b4e8bdcf2b8ae
+run_name: SVM
+run_uuid: 70cb5083f8e44bfa966b4e8bdcf2b8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712143714663
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/bc3866e1e61244a3a458c841e817932c/artifacts
+end_time: 1712144421000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc3866e1e61244a3a458c841e817932c
+run_name: RandomForest
+run_uuid: bc3866e1e61244a3a458c841e817932c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712144407713
+status: 3
+tags: []
+user_id: dell
