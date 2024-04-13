@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/effa724dd8eb4d81b2093b023254097c/artifacts
+deleted_time: 1712947691573
 end_time: 1712839929933
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: effa724dd8eb4d81b2093b023254097c
 run_name: RandomForest
 run_uuid: effa724dd8eb4d81b2093b023254097c

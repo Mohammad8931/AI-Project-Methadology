@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/fca5a207762a4c9893495364d8848b0f/artifacts
+deleted_time: 1712947691552
+end_time: 1712946834215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fca5a207762a4c9893495364d8848b0f
+run_name: RandomForest
+run_uuid: fca5a207762a4c9893495364d8848b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712946812945
+status: 3
+tags: []
+user_id: dell

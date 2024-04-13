@@ -13,7 +13,7 @@ Contents:
 
    getting-started
    commands
-   modules/model  # Reference to model.py documentation
+   modules/model 
 
 
 

@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/9edeeaeb2be4438a8ac438cbedc7bf05/artifacts
+deleted_time: 1712947691636
 end_time: 1712188143381
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9edeeaeb2be4438a8ac438cbedc7bf05
 run_name: LogisticRegression
 run_uuid: 9edeeaeb2be4438a8ac438cbedc7bf05

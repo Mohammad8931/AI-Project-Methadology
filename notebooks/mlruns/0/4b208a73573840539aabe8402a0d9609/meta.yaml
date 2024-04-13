@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/dell/OneDrive/Desktop/AI%20project%20methadology/notebooks/mlruns/0/4b208a73573840539aabe8402a0d9609/artifacts
+deleted_time: 1712947691542
 end_time: 1712144439519
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4b208a73573840539aabe8402a0d9609
 run_name: SVM
 run_uuid: 4b208a73573840539aabe8402a0d9609
