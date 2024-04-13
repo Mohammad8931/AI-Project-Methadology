@@ -1,7 +1,11 @@
-project_name
+ Predicting Customer Churn at RetailGenius
+
 ==============================
 
-A short description of the project.
+This report documents the development of a machine learning model to predict customer churn based on transactional and demographic data. 
+The project includes data preparation, feature engineering, model training, evaluation, inference, and model tracking using MLflow. 
+The primary goal is to predict which customers are likely to churn, enabling targeted retention strategies.
+we used Shap libraries for visualization.
 
 Project Organization
 ------------
